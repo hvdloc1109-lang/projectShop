@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: hvdloc.vn.doan_t3h.DoanT3hApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.141 s - in hvdloc.vn.doan_t3h.DoanT3hApplicationTests
